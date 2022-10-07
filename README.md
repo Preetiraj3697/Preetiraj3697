@@ -3,17 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> </p>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
-- 🔭 I’m currently working on [e-commerce-website](https://github.com/Preetiraj3697/sheela-commerce-webiste-with-reactjs)
+### I am a grad student at MASAI SCHOOL
 
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Data Visualization.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals : Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: <a href="https://linkedin.com/in/preetiraj3697" target="blank">Let's get in touch!</a>
+- 🧗 I try to : Go beyond and push the bounds
+- ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
-- 👯 I’m looking to collaborate on [30dayofJavascript](https://github.com/Preetiraj3697/30dayofJavascript)
-
-- 💬 Ask me about **React.js,Javascript**
-
-- 📫 How to reach me **Preetiraj122000@gmail.com**
-
-- ⚡ Fun fact **I think I am funny coder**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
