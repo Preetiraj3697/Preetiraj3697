@@ -6,7 +6,7 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
 ### I am student at MASAI SCHOOL
 
-- 🔭 I’m currently working on my  <a href="https://github.com/Preetiraj3697">Portfolio Website</a> :grin:
+- 🔭 I’m currently working on my  <a href="https://preetiraj3697.github.io/">Portfolio Website</a> :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
