@@ -13,6 +13,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://linkedin.com/in/preetiraj3697" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
+- 📄 My <a href="https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing">Resume</a> 📄
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
 
 <br>
