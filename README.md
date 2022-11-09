@@ -26,6 +26,7 @@
  <a href="https://medium.com/@preetiraj122000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="preetiraj3697" height="30" width="40" /></a>
  <a href="https://www.instagram.com/paarthavshah3697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preetiraj3697" height="30" width="40" /></a>
   <a href="https://preetiraj3697.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="preetiraj3697" height="30" width="40" /></a>
+ <a href="preetiraj122000@gmail.com" target="blank"><img align="center" src="https://icon2.cleanpng.com/20171220/bxe/gmail-logo-png-5a3aaffc62d223.8975386515137955804048.jpg" alt="preetiraj3697" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
