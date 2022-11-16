@@ -37,8 +37,6 @@
 </p>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
 <p align="left">
 <a href="https://github.com/Preetiraj3697/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
