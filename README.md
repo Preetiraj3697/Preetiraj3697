@@ -35,8 +35,6 @@
 <hr/>
 <p align="left" ><img alt="Preeti Raj Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetiraj3697&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><img  src="https://github-readme-stats.vercel.app/api?username=preetiraj3697&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="preetiraj3697" />
 </p>
-<br></br>
-<br></br>
 <p align="left">
 <a href="https://github.com/Preetiraj3697/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
@@ -49,6 +47,7 @@
 <br></br>
 <br></br>
 <br></br>
+<hr/>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
 <a href="https://github.com/Preetiraj3697/github-readme-activity-graph"><img alt="Preetiraj3697 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Preetiraj3697&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
