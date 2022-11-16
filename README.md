@@ -15,7 +15,7 @@
 - 🧗 I try to : Go beyond and push the bounds
 - 📄 My <a href="https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing">Resume</a> 📄
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
-
+<br></br>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
@@ -39,7 +39,6 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 <p>
 <a href="https://github.com/Preetiraj3697/30dayofJavascript">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
@@ -53,7 +52,6 @@
 <br></br>
 <hr/>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="100%">
-<br></br>
 <a href="https://github.com/Preetiraj3697/github-readme-activity-graph"><img alt="Preetiraj3697 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Preetiraj3697&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
