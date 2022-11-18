@@ -1,6 +1,6 @@
 
 
-![Rajdhani Bold](https://user-images.githubusercontent.com/107460745/202638934-cd5aab8f-80dd-4a5d-8d65-08a43a4f5ea4.gif)
+<img src="https://user-images.githubusercontent.com/107460745/202638934-cd5aab8f-80dd-4a5d-8d65-08a43a4f5ea4.gif" width="100%" height='300' />
 
 <h1 align="center">Hi 👋, I'm Preeti Raj From Haryana</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
