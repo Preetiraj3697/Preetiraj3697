@@ -1,7 +1,9 @@
 
+
+![Rajdhani Bold](https://user-images.githubusercontent.com/107460745/202638934-cd5aab8f-80dd-4a5d-8d65-08a43a4f5ea4.gif)
+
 <h1 align="center">Hi 👋, I'm Preeti Raj From Haryana</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> </p>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
 ### I am student at MASAI SCHOOL
