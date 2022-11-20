@@ -42,10 +42,10 @@
 </p>
 <p align="left">
 <a href="https://github.com/Preetiraj3697/30dayofJavascript">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=30dayofJavascript&theme=tokyonight" />
 </a>
 <a href="https://github.com/Preetiraj3697/sheela-commerce-webiste-with-reactjs">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=sheela-commerce-webiste-with-reactjs&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Preetiraj3697&repo=sheela-commerce-webiste-with-reactjs&theme=tokyonight" />
 </a>
 </p>
 <br></br>
