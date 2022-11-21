@@ -6,11 +6,12 @@
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> <a href="https://github.com/Preetiraj3697?tab=followers"><img src="https://img.shields.io/github/followers/Preetiraj3697?label=Followers&style=social" alt="GitHub Badge">
  <a href="https://github.com/Preetiraj3697?tab=stars"><img src="https://img.shields.io/github/stars/Preetiraj3697?label=stars&style=social" alt="GitHub Badge">
+  
 </p>
 
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
-### I AM STUDENT AT MASAI SCHOOL
+# I AM STUDENT AT MASAI SCHOOL
 
 - 🔭 I’m currently working on my  <a href="https://preetiraj3697.github.io/">Portfolio Website</a> :grin:
 - 🌱 I’m currently learning Data Visualization.
