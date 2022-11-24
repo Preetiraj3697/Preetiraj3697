@@ -13,7 +13,7 @@
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
 # I AM STUDENT AT MASAI SCHOOL
 
-- 🔭 I’m currently working on my  <a href="https://preetiraj3697.github.io/">Portfolio Website</a> :grin:
+- 🔭 I’m currently working on my  <a href="https://preetiraj3697.github.io/">Three Js Project</a> :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals : Contribute to Open Source projects
@@ -22,6 +22,7 @@
 - 🧗 I try to : Go beyond and push the bounds
 - 📄 My <a href="https://drive.google.com/file/d/1hDfJLp-qLVxQHJFq16I3Yvr5mkE8qVaD/view?usp=sharing">Resume</a> 📄
 - ⚡ Fun fact : My smartness 💡 lies in my laziness 😴
+- 📊 Metrics : <a href="https://metrics.lecoq.io/insights/Preetiraj3697">Check my whole github metrics here! 👈</a>
 <br></br>
 <br></br>
 <hr/>
@@ -85,6 +86,6 @@
 <hr/>
 <a href="https://github.com/Preetiraj3697/github-readme-activity-graph"><img alt="Preetiraj3697 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Preetiraj3697&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
 
