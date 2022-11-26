@@ -4,13 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Preeti Raj From Haryana</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> <a href="https://github.com/Preetiraj3697?tab=followers"><img src="https://img.shields.io/github/followers/Preetiraj3697?label=Followers&style=social" alt="GitHub Badge">
- <a href="https://github.com/Preetiraj3697?tab=stars"><img src="https://img.shields.io/github/stars/Preetiraj3697?label=stars&style=social" alt="GitHub Badge">
-  
-</p>
-
-
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
+</a>
+ </p>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/> 
 # I AM STUDENT AT MASAI SCHOOL
 
 - 🔭 I’m currently working on my  <a href="https://preetiraj3697.github.io/">Three Js Project</a> :grin:
@@ -35,8 +34,8 @@
   <a href="https://discord.gg/chfGfZaT" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href="https://preetiraj3697.github.io" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
+<a href="https://preetiraj3697.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 <a href="https://www.linkedin.com/in/preetiraj3697" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -107,3 +106,13 @@
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
 
+<samp>
+    <h2 align="center">Views Followers and Stars</h2>
+</samp>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=preetiraj3697&label=Profile%20views&color=0e75b6&style=flat" alt="preetiraj3697" /> <a href="https://github.com/Preetiraj3697?tab=followers"><img src="https://img.shields.io/github/followers/Preetiraj3697?label=Followers&style=social" alt="GitHub Badge">
+ <a href="https://github.com/Preetiraj3697?tab=stars"><img src="https://img.shields.io/github/stars/Preetiraj3697?label=stars&style=social" alt="GitHub Badge">
+  
+</p>
+
+<p align="center"><code> © 2022 | Preeti Raj </code></p>
