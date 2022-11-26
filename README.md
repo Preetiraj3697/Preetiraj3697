@@ -29,14 +29,31 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/preetiraj3697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="preetiraj3697" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/preetiraj3697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetiraj3697" height="30" width="40" /></a>
-<a href="https://codesandbox.com/preetiraj3697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="preetiraj3697" height="30" width="40" /></a>
- <a href="https://medium.com/@preetiraj122000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="preetiraj3697" height="30" width="40" /></a>
- <a href="https://www.instagram.com/paarthavshah3697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preetiraj3697" height="30" width="40" /></a>
-  <a href="https://preetiraj3697.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="preetiraj3697" height="30" width="40" /></a>
- <a href="preetiraj122000@gmail.com" target="blank"><img align="center" src="https://icon2.cleanpng.com/20171220/bxe/gmail-logo-png-5a3aaffc62d223.8975386515137955804048.jpg" alt="preetiraj3697" height="30" width="40" /></a>
-</p>
+<a href="mailto:preetiraj122000@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://discord.gg/chfGfZaT" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://preetiraj3697.github.io" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/preetiraj3697" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Preetiraj3697" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/paarthavshah3697" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://codepen.io/preetiraj3697" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Codepen-%23E20036.svg?&style=for-the-badge&logo=Codepen&logoColor=white">
+</a>
+ <a href="https://medium.com/@preetiraj122000" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Medium-%23E20036.svg?&style=for-the-badge&logo=Medium&logoColor=white">
+</a>
+<br />
 
 <h3> 🚀 Languages and Tools:</h3>
 <div align="center">
