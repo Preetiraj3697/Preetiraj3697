@@ -47,9 +47,6 @@
 <a href="https://www.instagram.com/paarthavshah3697" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://codepen.io/preetiraj3697" style="text-decoration:none">
-  <img height="30" src = "https://img.shields.io/badge/Codepen-%23E20036.svg?&style=for-the-badge&logo=Codepen&logoColor=white">
-</a>
  <a href="https://medium.com/@preetiraj122000" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Medium-%23E20036.svg?&style=for-the-badge&logo=Medium&logoColor=white">
 </a>
