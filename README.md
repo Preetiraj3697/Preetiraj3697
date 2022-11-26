@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/Python-4A154B?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Bootstrap-007FFF?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap"/>
@@ -73,10 +74,13 @@
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+ <img src="https://img.shields.io/badge/Codepen-4A154B?style=for-the-badge&logo=codepen&logoColor=white" align="center" alt="Codepen"/>
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
 <img src ="https://img.shields.io/badge/Pycharm-FF6C37?style=for-the-badge&logo=pycharm&logoColor=white" align="center" alt="pycharm">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+<img src="https://img.shields.io/badge/Codesandbox-4A154B?style=for-the-badge&logo=codesandbox&logoColor=white" align="center" alt="Codesandbox"/>
+
 </div>
 <hr/>
 <h2 align="left">📊 My Github Stats</h2>
