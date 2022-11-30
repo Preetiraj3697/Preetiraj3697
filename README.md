@@ -116,7 +116,3 @@
 </p>
 
 <p align="center"><code> © 2022 | Preeti Raj </code></p>
-
- <details><summary align="center"><h3>Certificates</h3></summary>
- 
-</details>
