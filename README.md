@@ -10,7 +10,7 @@
 </a>
  </p>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/> 
-# I AM STUDENT AT MASAI SCHOOL
+  🧑🏻‍🏻‍🎓 <b>I AM STUDENT AT MASAI SCHOOL </b>🧑🏻‍🏻‍🎓
 
 - 🔭 I’m currently working on my  <a href="https://preetiraj3697.github.io/">Three Js Project</a> :grin:
 - 🌱 I’m currently learning Data Visualization.
