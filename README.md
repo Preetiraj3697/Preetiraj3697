@@ -1,15 +1,19 @@
-
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/107460745/202638934-cd5aab8f-80dd-4a5d-8d65-08a43a4f5ea4.gif" width="100%" height='300' />
 
 <h1 align="center">Hi 👋, I'm Preeti Raj From Haryana</h1>
 <h3 align="center">A Passionate Full Stack Web developer From India</h3>
+ 
+  #### उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः। न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगा:।।
+<br>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Open+Source+Contributor;Problem+Solver;Full+Stack+Web+Developer;Content+Creator;Tech+Enthusiast&center=true&width=500&height=50">
 </a>
  </p>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/> 
+ </div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   🧑🏻‍🏻‍🎓 <b>I AM STUDENT AT MASAI SCHOOL </b>🧑🏻‍🏻‍🎓
 
 - 🔭 I’m currently working on my  <a href="https://github.com/Preetiraj3697/Youtube-Lite">YouTube Clone</a> :grin:
