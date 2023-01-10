@@ -80,10 +80,13 @@
 <br></br>
 <img src="https://github-profile-trophy.vercel.app/?username=Preetiraj3697&theme=algolia&row=1&column=7" align="center" alt="preetiraj" width="100%"  />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preetiraj3697&theme=2077" width="100%" />
+<p align="center">
+ <img src="https://metrics.lecoq.io/Preetiraj3697" alt="preeti"/>  
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/Preetiraj3697)  
 
-<hr/>
+
+
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Preetiraj3697&theme=react-dark&custom_title=Preeti%20Raj's%20contribution%20Graph&hide_border=true" />
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
