@@ -78,7 +78,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Preetiraj3697&theme=algolia&row=1&column=7" align="center" alt="preetiraj" width="100%"  />
 <p align="left">
 <img align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preetiraj3697&theme=2077" width="50%"/>
-<img align="left" src="https://streak-stats.demolab.com?user=Preetiraj3697&theme=tokyonight&hide_border=true&border_radius=4.7" width="50%"/>
+<img align="right" src="https://streak-stats.demolab.com?user=Preetiraj3697&theme=tokyonight&hide_border=true&border_radius=4.7" width="50%"/>
  </p>
 <p align="center">
  <img src="https://metrics.lecoq.io/Preetiraj3697" alt="preeti"/>  
