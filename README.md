@@ -48,6 +48,9 @@
  <a href="https://medium.com/@preetiraj122000" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Medium-%23E20036.svg?&style=for-the-badge&logo=Medium&logoColor=white">
 </a>
+  <a href="https://www.youtube.com/channel/UCUm2fjgbYRGRfiSh4LqSPyA" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white">
+</a>
 <br />
 
  <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
